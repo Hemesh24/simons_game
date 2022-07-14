@@ -1,1 +1,2 @@
-# simons_game
+# simons-game
+done using jquery
